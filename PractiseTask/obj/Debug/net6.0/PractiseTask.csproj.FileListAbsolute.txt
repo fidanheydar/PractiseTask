@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\PractiseTask\PractiseTask\bin\Debug\net6.0\PractiseTask.exe
+C:\Users\HP\Desktop\PractiseTask\PractiseTask\bin\Debug\net6.0\PractiseTask.deps.json
+C:\Users\HP\Desktop\PractiseTask\PractiseTask\bin\Debug\net6.0\PractiseTask.runtimeconfig.json
+C:\Users\HP\Desktop\PractiseTask\PractiseTask\bin\Debug\net6.0\PractiseTask.dll
+C:\Users\HP\Desktop\PractiseTask\PractiseTask\bin\Debug\net6.0\PractiseTask.pdb
+C:\Users\HP\Desktop\PractiseTask\PractiseTask\obj\Debug\net6.0\PractiseTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\PractiseTask\PractiseTask\obj\Debug\net6.0\PractiseTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\PractiseTask\PractiseTask\obj\Debug\net6.0\PractiseTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\PractiseTask\PractiseTask\obj\Debug\net6.0\PractiseTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\PractiseTask\PractiseTask\obj\Debug\net6.0\PractiseTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PractiseTask\PractiseTask\obj\Debug\net6.0\PractiseTask.dll
+C:\Users\HP\Desktop\PractiseTask\PractiseTask\obj\Debug\net6.0\refint\PractiseTask.dll
+C:\Users\HP\Desktop\PractiseTask\PractiseTask\obj\Debug\net6.0\PractiseTask.pdb
+C:\Users\HP\Desktop\PractiseTask\PractiseTask\obj\Debug\net6.0\PractiseTask.genruntimeconfig.cache
+C:\Users\HP\Desktop\PractiseTask\PractiseTask\obj\Debug\net6.0\ref\PractiseTask.dll
